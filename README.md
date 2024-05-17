@@ -2,7 +2,7 @@
 
 ## Features: 
 ### The provided code is a combination of -
-- Dijkstra's algorithm for shortest path calculation
+- dijkstra's algorithm for shortest path calculation
 - a management system for handling delivery boys' data
 ### The system allows for -
 - registering, removing, and updating delivery boys
