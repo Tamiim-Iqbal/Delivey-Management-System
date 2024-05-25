@@ -10,7 +10,6 @@ class cmp
         {
             return a.second > b.second;
         }
-
 };
 void dijkstra(int src)
 {
