@@ -1,4 +1,4 @@
-<h1 align="center"> Deliery Management System </h1>
+<h2 align="center"> Deliery Management System </h2>
 
 ### Features: 
 <h6> The provided code is a combination of_</h6>
